@@ -1,6 +1,6 @@
 package com.s3.multi_threading_couse;
 
-public class Main2 {
+public class _2_ThreadAsClass {
 
     public static void main(String[] args){
         Thread thread = new NewThread();

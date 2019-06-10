@@ -1,6 +1,6 @@
 package com.s3.multi_threading_couse;
 
-public class Main {
+public class _1_Basics {
 
     public static void main(String[] args) throws InterruptedException {
         Thread thread = new Thread(new Runnable() {

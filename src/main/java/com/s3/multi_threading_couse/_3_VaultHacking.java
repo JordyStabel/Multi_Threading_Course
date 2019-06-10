@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Random;
 
-public class Main3 {
+public class _3_VaultHacking {
     
     public static final int MAX_PASSWORD = 9999;
 
