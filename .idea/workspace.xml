@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c367ace1-2c76-4daf-958d-8980ae7a6313" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/s3/multi_threading_couse/_5_FactorialCalculation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/s3/multi_threading_couse/_6_ImageRecoloringAlgorithm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/ferrari-8k.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/laf.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/many-flowers.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -41,7 +44,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/com/s3/multi_threading_couse/_3_VaultHacking.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="396">
-              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+              <caret line="21" selection-start-line="21" selection-end-line="21" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#786#787#0" expanded="true" />
@@ -69,18 +72,18 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/s3/multi_threading_couse/_5_FactorialCalculation.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/s3/multi_threading_couse/_6_ImageRecoloringAlgorithm.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="278">
-              <caret line="15" column="43" lean-forward="true" selection-start-line="15" selection-start-column="43" selection-end-line="15" selection-end-column="43" />
+            <state relative-caret-position="814">
+              <caret line="43" column="46" lean-forward="true" selection-start-line="43" selection-start-column="46" selection-end-line="43" selection-end-column="46" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#1891#1892#0" expanded="true" />
-                <element signature="e#1945#1946#0" expanded="true" />
-                <element signature="e#2409#2410#0" expanded="true" />
-                <element signature="e#2450#2451#0" expanded="true" />
-                <element signature="e#2491#2492#0" expanded="true" />
-                <element signature="e#2528#2529#0" expanded="true" />
+                <element signature="e#2193#2194#0" expanded="true" />
+                <element signature="e#2240#2241#0" expanded="true" />
+                <element signature="e#2283#2284#0" expanded="true" />
+                <element signature="e#2329#2330#0" expanded="true" />
+                <element signature="e#2371#2372#0" expanded="true" />
+                <element signature="e#2410#2411#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -111,11 +114,12 @@
         <option value="$PROJECT_DIR$/src/main/java/com/s3/multi_threading_couse/_2_ThreadAsClass.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/s3/multi_threading_couse/_4_ThreadInterrupting.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/s3/multi_threading_couse/_5_FactorialCalculation.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/s3/multi_threading_couse/_6_ImageRecoloringAlgorithm.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="953" />
+    <option name="x" value="-7" />
     <option name="width" value="974" />
     <option name="height" value="1047" />
   </component>
@@ -160,6 +164,24 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="multi_threading_couse" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="multi_threading_course" type="b2602c69:ProjectViewProjectNode" />
+              <item name="multi_threading_course" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="multi_threading_course" type="b2602c69:ProjectViewProjectNode" />
+              <item name="multi_threading_course" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="multi_threading_course" type="b2602c69:ProjectViewProjectNode" />
+              <item name="multi_threading_course" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="classes" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -179,6 +201,11 @@
     <property name="project.structure.side.proportion" value="0.45882353" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Ignored.Files" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Projects\multi_threading_course\src\main\resources" />
+    </key>
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -191,14 +218,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application._5_FactorialCalculation">
-    <configuration name="_1_Basics" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.s3.multi_threading_couse._1_Basics" />
-      <module name="multi_threading_course" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application._6_ImageRecoloringAlgorithm">
     <configuration name="_2_ThreadAsClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.s3.multi_threading_couse._2_ThreadAsClass" />
       <module name="multi_threading_course" />
@@ -251,13 +271,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="_6_ImageRecoloringAlgorithm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.s3.multi_threading_couse._6_ImageRecoloringAlgorithm" />
+      <module name="multi_threading_course" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.s3.multi_threading_couse.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application._6_ImageRecoloringAlgorithm" />
         <item itemvalue="Application._5_FactorialCalculation" />
         <item itemvalue="Application._4_ThreadInterrupting" />
         <item itemvalue="Application._3_VaultHacking" />
         <item itemvalue="Application._2_ThreadAsClass" />
-        <item itemvalue="Application._1_Basics" />
       </list>
     </recent_temporary>
   </component>
@@ -271,12 +304,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1560169478311</updated>
-      <workItem from="1560169479625" duration="8797000" />
+      <workItem from="1560169479625" duration="14134000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8797000" />
+    <option name="totallyTimeSpent" value="14134000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -287,7 +320,7 @@
       <window_info id="Capture Tool" />
       <window_info id="UI Designer" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24973147" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19548872" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
@@ -298,7 +331,7 @@
       <window_info anchor="bottom" id="Messages" weight="0.32924107" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32924107" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.31361607" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39955357" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -352,7 +385,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/com/s3/multi_threading_couse/_3_VaultHacking.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="396">
-          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#786#787#0" expanded="true" />
@@ -376,18 +409,46 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/many-flowers.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/Ferrari-458-Glass-Bradford-Wrapping.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/classes/many-flowers.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/classes/laf.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/Ferrari-458-Glass-Bradford-Wrapping.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/s3/multi_threading_couse/_5_FactorialCalculation.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="278">
-          <caret line="15" column="43" lean-forward="true" selection-start-line="15" selection-start-column="43" selection-end-line="15" selection-end-column="43" />
+        <state relative-caret-position="66">
+          <caret line="3" selection-start-line="3" selection-end-line="5" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/ferrari-8k.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/classes/ferrari-8k.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/s3/multi_threading_couse/_6_ImageRecoloringAlgorithm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="814">
+          <caret line="43" column="46" lean-forward="true" selection-start-line="43" selection-start-column="46" selection-end-line="43" selection-end-column="46" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1891#1892#0" expanded="true" />
-            <element signature="e#1945#1946#0" expanded="true" />
-            <element signature="e#2409#2410#0" expanded="true" />
-            <element signature="e#2450#2451#0" expanded="true" />
-            <element signature="e#2491#2492#0" expanded="true" />
-            <element signature="e#2528#2529#0" expanded="true" />
+            <element signature="e#2193#2194#0" expanded="true" />
+            <element signature="e#2240#2241#0" expanded="true" />
+            <element signature="e#2283#2284#0" expanded="true" />
+            <element signature="e#2329#2330#0" expanded="true" />
+            <element signature="e#2371#2372#0" expanded="true" />
+            <element signature="e#2410#2411#0" expanded="true" />
           </folding>
         </state>
       </provider>
