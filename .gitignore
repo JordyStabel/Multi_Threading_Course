@@ -1,3 +1,6 @@
+# Log files
+logs/
+
 # Created by https://www.gitignore.io/api/java,maven,windows,intellij
 
 ### Intellij ###
@@ -77,7 +80,7 @@ fabric.properties
 # *.ipr
 
 # Sonarlint plugin
-.idea/sonarlint/*
+.idea/sonarlint
 
 ### Java ###
 # Compiled class file
